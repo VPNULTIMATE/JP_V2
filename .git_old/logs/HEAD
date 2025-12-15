@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 4d6c87d317d70148148d9482f3ec3c97eababa87 NAMA_KAMU <EMAIL_KAMU@example.com> 1765819948 +0700	commit (initial): Initial: extract HusniPlus installers & panel (sanitized)
-4d6c87d317d70148148d9482f3ec3c97eababa87 0000000000000000000000000000000000000000 NAMA_KAMU <EMAIL_KAMU@example.com> 1765819948 +0700	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 4d6c87d317d70148148d9482f3ec3c97eababa87 NAMA_KAMU <EMAIL_KAMU@example.com> 1765819948 +0700	Branch: renamed refs/heads/master to refs/heads/main
-4d6c87d317d70148148d9482f3ec3c97eababa87 b6d947ce234c85a1376c3b7250d135686a84558d NAMA_KAMU <EMAIL_KAMU@example.com> 1765820037 +0700	commit: Initial commit: extracted HusniPlus scripts and services
-b6d947ce234c85a1376c3b7250d135686a84558d 0000000000000000000000000000000000000000 NAMA_KAMU <EMAIL_KAMU@example.com> 1765820184 +0700	Branch: renamed refs/heads/main to refs/heads/main
-b6d947ce234c85a1376c3b7250d135686a84558d b6d947ce234c85a1376c3b7250d135686a84558d NAMA_KAMU <EMAIL_KAMU@example.com> 1765820184 +0700	Branch: renamed refs/heads/main to refs/heads/main
-b6d947ce234c85a1376c3b7250d135686a84558d cf2ca35764093d5a79dd79c152e4e3d5897a2ad0 NAMA_KAMU <EMAIL_KAMU@example.com> 1765820370 +0700	pull origin main --allow-unrelated-histories: Merge made by the 'recursive' strategy.
-cf2ca35764093d5a79dd79c152e4e3d5897a2ad0 e3cd3148a2e65d850d2ae66686bdb2bf35505f13 NAMA_KAMU <EMAIL_KAMU@example.com> 1765821100 +0700	commit: Add README.md documentation
-e3cd3148a2e65d850d2ae66686bdb2bf35505f13 bce6596cba511c209b29ff8d16bd693254454b15 NAMA_KAMU <EMAIL_KAMU@example.com> 1765822833 +0700	commit: Branding: VPN MULTI PLUS PANEL + README final

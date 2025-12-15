@@ -5,3 +5,4 @@
 *.crt
 *.pem
 *.json
+.git_old/
