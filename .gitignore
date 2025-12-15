@@ -1,0 +1,7 @@
+*.log
+*.zip
+*.tar*
+*.key
+*.crt
+*.pem
+*.json
