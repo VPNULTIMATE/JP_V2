@@ -1,8 +1,0 @@
-*.log
-*.zip
-*.tar*
-*.key
-*.crt
-*.pem
-*.json
-.git_old/
